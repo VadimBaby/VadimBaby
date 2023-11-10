@@ -12,4 +12,4 @@ GitHub - [@VadimBaby](https://github.com/VadimBaby/)\
 Telegram - [@tawroof](https://tawroof.t.me/)
 
 ## Stats
-![VadimBaby's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VadimBaby&show_icons=true&theme=dark)
+[VadimBaby's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VadimBaby&show_icons=true&theme=dark)
