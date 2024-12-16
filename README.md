@@ -4,6 +4,8 @@
 * SwiftUI, UIKit
 * MVVM + C, TCA (The Composable Architecture)
 * Stinsen, Moya, Swinject
+* Swiftgen, Xcodegen
+* fastlane
 
 ## Contacts
 Telegram - [@tawroof](https://tawroof.t.me/)
